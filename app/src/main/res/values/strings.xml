@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Bio</string>
     <string name="name">Anthony Snelling</string>
+    <string name="myBio">Hello my name is Anthony Snelling. I am a graduate from <b>Eastern Michigan University</b> with a degree in <i><b>Computer Science</b></i> as well as a graduate from <b>Washtenaw Community College</b>
+        with a degree in 3D animation, as well as a graduate from Animation Mentor school of character animation. I have a strong interest in app and web development as well as computer graphics.
+        I love video games, films, and I also love to run, play guitar, and make art.
+    </string>
 </resources>
